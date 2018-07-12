@@ -1,0 +1,12 @@
+data/
+cv_data/
+__pycache__/
+initialized_models/
+*.pyc
+titan_pbs/
+*.hdf5
+.DS_Store
+*.h5
+*checkpoint/*
+*.out
+
