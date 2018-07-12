@@ -1,6 +1,6 @@
 # Code for 2018 Qualifying Exam
 
-This repository contains the code used for my 2018 Qualifying exam, which used data from the 2018 Zillow prize hosted by Kaggle.  Notebooks Part 1-3 focus on data analysis and visualization and Notebook Part 4 performs on modeling using LightGBM.
+This repository contains the code used for my 2018 Qualifying exam, which used data from the 2018 Zillow prize hosted by Kaggle.  Notebooks Part 1-3 focus on data analysis and visualization and Notebook Part 4 performs modeling using LightGBM.
 
 To run this code, first download and extract the Zillow dataset from the url below:
 
